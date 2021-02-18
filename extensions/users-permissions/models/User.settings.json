@@ -59,8 +59,7 @@
       "type": "text"
     },
     "slug": {
-      "type": "uid",
-      "targetField": "username"
+      "type": "uid"
     }
   }
 }
